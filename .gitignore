@@ -1,0 +1,13 @@
+*.fbx*
+*.prefab*
+*.png*
+*.shader*
+*.tga*
+Temp/*
+UserSettings/*
+ProjectSettings/*
+ArtifactDB
+Ludiq*
+Ludiq/*
+Ludiq.Generated/*
+ExampleAssets/*
