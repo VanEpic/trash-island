@@ -1,6 +1,6 @@
 # trash-island
 
-!!! Some essential (but large) files were left out of the upload to save time. Downloading would only result in tears. !!!
+!!! Some essential (but large) files were left out of the upload to save time. Downloading would only result in tears !!!
 
 Phase 1 of development - Water Shader and Triplanar Shader for Unity's terrain-making tool:
 
