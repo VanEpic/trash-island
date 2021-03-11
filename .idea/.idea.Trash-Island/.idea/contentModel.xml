@@ -7,6 +7,31 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Bitgem" t="Include">
+          <e p="StylisedWater" t="Include">
+            <e p="URP" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Bitgem" t="Include">
+                  <e p="Core" t="Include">
+                    <e p="FlagEnumAttribute.cs" t="Include" />
+                  </e>
+                  <e p="Editor" t="Include">
+                    <e p="FlagEnumAttributeDrawer.cs" t="Include" />
+                  </e>
+                  <e p="VFX" t="Include">
+                    <e p="StylisedWater" t="Include">
+                      <e p="WaterVolumeBase.cs" t="Include" />
+                      <e p="WaterVolumeBox.cs" t="Include" />
+                      <e p="WaterVolumeHelper.cs" t="Include" />
+                      <e p="WaterVolumeTransforms.cs" t="Include" />
+                      <e p="WateverVolumeFloater.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
         <e p="Ludiq" t="Include">
           <e p="Ludiq.Peek" t="Include">
             <e p="Editor" t="Include">
@@ -1281,7 +1306,15 @@
             </e>
           </e>
         </e>
+        <e p="scr.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="Collectible.cs" t="Include" />
+          <e p="Collector.cs" t="Include" />
+          <e p="HUD" t="Include">
+            <e p="ShowEquippedItem.cs" t="Include" />
+          </e>
+          <e p="OnPickupEvent.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
           <e p="PlayerControls.cs" t="Include" />
           <e p="SimpleCameraController.cs" t="Include" />
         </e>

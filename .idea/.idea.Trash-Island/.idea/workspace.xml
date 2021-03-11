@@ -1,28 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8c1ab9e-bf19-41f1-98ae-49efbb3026b1" name="デフォルト変更リスト" comment="" />
+    <list default="true" id="c8c1ab9e-bf19-41f1-98ae-49efbb3026b1" name="デフォルト変更リスト" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HUD.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HUD/ShowEquippedItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HUD/ShowEquippedItem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/OnPickupEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Terrain.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/New Terrain.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene0.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2d/2d231001f7aefccac282766b577c59f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f1/f181bdd7f5ae1e2ab5902f8e2eab76ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorOnlyScriptingSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorOnlyScriptingSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/e0/e070be96248cf5405918e84ba69eae88.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/e0/e070be96248cf5405918e84ba69eae88.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/82/82ff0415273a735c6724f6f1a826efc9.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/82/82ff0415273a735c6724f6f1a826efc9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref" beforeDir="false" afterPath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collectible.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../../../../Program Files/Unity/Hub/Editor/2020.2.6f1/Unity/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EAE584CE-26BC-4022-9C1B-1AA476BFA589/83/19ae79f1/Delegate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EAE584CE-26BC-4022-9C1B-1AA476BFA589/69/f8136297/NullReferenceException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnPickupEvent.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Pixelation/Core/SnapToMainCam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collectible.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OnPickupEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HUD/ShowEquippedItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collector.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1pIjC3LiyputGnaXlCjUckORQ0s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34971097" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.2998555" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -36,10 +113,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="20564">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="20564" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -56,6 +133,10 @@
       <updated>1614877371312</updated>
       <workItem from="1614877380623" duration="1000" />
       <workItem from="1614878717754" duration="616000" />
+      <workItem from="1615304817999" duration="1282000" />
+      <workItem from="1615308477365" duration="30000" />
+      <workItem from="1615469927954" duration="2760000" />
+      <workItem from="1615482383008" duration="5924000" />
     </task>
     <servers />
   </component>
@@ -64,7 +145,104 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1415" height="304" key="GridCell.Tab.0.bottom" timestamp="1615490180091">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.0.bottom/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490180091" />
+    <state width="1415" height="304" key="GridCell.Tab.0.center" timestamp="1615490180090">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.0.center/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490180090" />
+    <state width="1415" height="304" key="GridCell.Tab.0.left" timestamp="1615490180090">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.0.left/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490180090" />
+    <state width="1415" height="304" key="GridCell.Tab.0.right" timestamp="1615490180091">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.0.right/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490180091" />
+    <state width="1415" height="304" key="GridCell.Tab.1.bottom" timestamp="1615490190475">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.1.bottom/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490190475" />
+    <state width="1415" height="304" key="GridCell.Tab.1.center" timestamp="1615490190475">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.1.center/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490190475" />
+    <state width="1415" height="304" key="GridCell.Tab.1.left" timestamp="1615490190475">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.1.left/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490190475" />
+    <state width="1415" height="304" key="GridCell.Tab.1.right" timestamp="1615490190475">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.1.right/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490190475" />
+    <state width="1415" height="304" key="GridCell.Tab.2.bottom" timestamp="1615490179979">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.2.bottom/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490179979" />
+    <state width="1415" height="304" key="GridCell.Tab.2.center" timestamp="1615490179979">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.2.center/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490179979" />
+    <state width="1415" height="304" key="GridCell.Tab.2.left" timestamp="1615490179979">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.2.left/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490179979" />
+    <state width="1415" height="304" key="GridCell.Tab.2.right" timestamp="1615490179979">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.2.right/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490179979" />
+    <state width="1415" height="304" key="GridCell.Tab.3.bottom" timestamp="1615490179979">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.3.bottom/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490179979" />
+    <state width="1415" height="304" key="GridCell.Tab.3.center" timestamp="1615490179979">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.3.center/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490179979" />
+    <state width="1415" height="304" key="GridCell.Tab.3.left" timestamp="1615490179979">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.3.left/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490179979" />
+    <state width="1415" height="304" key="GridCell.Tab.3.right" timestamp="1615490179979">
+      <screen x="78" y="0" width="1458" height="864" />
+    </state>
+    <state width="1415" height="304" key="GridCell.Tab.3.right/2018.0.1822.1080/78.0.1458.864@78.0.1458.864" timestamp="1615490179979" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/HUD/ShowEquippedItem.cs</url>
+          <line>25</line>
+          <properties documentPath="C:\Users\Eloy\Desktop\Work\Projects\Games\Unity\Unity-Projects\Trash-Island\Assets\Scripts\HUD\ShowEquippedItem.cs" initialLine="25">
+            <startOffsets>
+              <option value="688" />
+            </startOffsets>
+            <endOffsets>
+              <option value="715" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
