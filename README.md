@@ -9,3 +9,7 @@ Phase 1 of development - Water Shader and Triplanar Shader for Unity's terrain-m
 Phase 2 - Pickup system, with a pixelized look and some post-processing.
 
 ![Gif pickup](./GIFs/trash1.gif)
+
+Phase 3 - New player model, space walking, and trees.
+
+![Gif trees](./GIFs/trash2.gif)
