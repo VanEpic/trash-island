@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637509042397255332
-    m_Hash: 513977642
+      ticks: 637534191614289733
+    m_Hash: 2887347800
   m_LockFileStatus:
     m_FilePath: C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637509042406740390
-    m_Hash: 1644270912
+      ticks: 637534191667666209
+    m_Hash: 1759526237
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -190,7 +190,7 @@ m_PackageAssets:
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.22
+        version: 1.1.24
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -398,6 +398,7 @@ m_PackageAssets:
         - 7.5.1
         - 7.5.2
         - 7.5.3
+        - 7.6.0
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -413,6 +414,7 @@ m_PackageAssets:
         - 10.2.2
         - 10.3.1
         - 10.3.2
+        - 10.4.0
         compatible:
         - 10.3.1
         - 10.3.2
@@ -466,12 +468,12 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/Graphics.git
         revision: 04da21e5dc442239eb39b80d9b201a16d860bd75
         path: 
-    - packageId: com.unity.test-framework@1.1.22
+    - packageId: com.unity.test-framework@1.1.24
       testable: 0
       isDirectDependency: 1
-      version: 1.1.22
+      version: 1.1.24
       source: 1
-      resolvedPath: C:\Users\Eloy\Desktop\Work\Projects\Games\Unity\Unity-Projects\Trash-Island\Library\PackageCache\com.unity.test-framework@1.1.22
+      resolvedPath: C:\Users\Eloy\Desktop\Work\Projects\Games\Unity\Unity-Projects\Trash-Island\Library\PackageCache\com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -547,13 +549,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637469345300000000
+      datePublishedTicks: 637505702940000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: 56c667cbc326a1cbab8dfd7ebc693a1121d0abe1
+        revision: e6fe8892689398c0d9aba4587e0ba69edc3d82b8
         path: 
     - packageId: com.unity.textmeshpro@3.0.1
       testable: 0
@@ -771,6 +773,7 @@ m_PackageAssets:
         - 1.4.4
         - 1.4.5
         - 1.4.6
+        - 1.4.7
         - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
@@ -781,9 +784,12 @@ m_PackageAssets:
         - 1.5.1-pre.2
         - 1.5.1-pre.3
         - 1.5.2
+        - 1.5.4
         - 1.6.0-pre.1
+        - 1.6.0-pre.3
         compatible:
         - 1.4.6
+        - 1.4.7
         - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
@@ -794,8 +800,10 @@ m_PackageAssets:
         - 1.5.1-pre.2
         - 1.5.1-pre.3
         - 1.5.2
+        - 1.5.4
         - 1.6.0-pre.1
-        verified: 1.4.6
+        - 1.6.0-pre.3
+        verified: 1.4.7
       dependencies:
       - name: com.unity.modules.director
         version: 1.0.0
@@ -892,6 +900,68 @@ m_PackageAssets:
         capabilities: 0
       hasRegistry: 0
       hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: dev.yarnspinner.unity@https://github.com/YarnSpinnerTool/YarnSpinner-Unity.git
+      testable: 0
+      isDirectDependency: 1
+      version: 1.2.7
+      source: 5
+      resolvedPath: C:\Users\Eloy\Desktop\Work\Projects\Games\Unity\Unity-Projects\Trash-Island\Library\PackageCache\dev.yarnspinner.unity@e050b45804
+      assetPath: Packages/dev.yarnspinner.unity
+      name: dev.yarnspinner.unity
+      displayName: Yarn Spinner
+      author:
+        name: Secret Lab
+        email: 
+        url: https://github.com/YarnSpinnerTool/YarnSpinner
+      category: 
+      type: tool
+      description: Yarn is a language that's designed to make it super easy to create
+        interactive dialogue for games. Yarn's similar in style to Twine, so if you
+        already know that, you'll be right at home! If you don't, that's cool - Yarn's
+        syntax is extremely minimal, and there's not much there to learn. The Yarn
+        language is used in a number of cool games, including Night In The Woods
+        and Knights and Bikes.
+      status: 4
+      errors: []
+      versions:
+        all: []
+        compatible: []
+        verified: 
+      dependencies:
+      - name: com.unity.textmeshpro
+        version: 1.4.1
+      resolvedDependencies:
+      - name: com.unity.textmeshpro
+        version: 3.0.1
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - Dialogue
+      - Yarn
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 0
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
@@ -2876,6 +2946,7 @@ m_PackageAssets:
         - 7.5.1
         - 7.5.2
         - 7.5.3
+        - 7.6.0
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -2892,6 +2963,7 @@ m_PackageAssets:
         - 10.2.2
         - 10.3.1
         - 10.3.2
+        - 10.4.0
         compatible:
         - 10.3.1
         - 10.3.2
@@ -3020,6 +3092,7 @@ m_PackageAssets:
         - 7.5.1
         - 7.5.2
         - 7.5.3
+        - 7.6.0
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -3035,6 +3108,7 @@ m_PackageAssets:
         - 10.2.2
         - 10.3.1
         - 10.3.2
+        - 10.4.0
         compatible:
         - 10.3.1
         - 10.3.2
@@ -3108,6 +3182,7 @@ m_PackageAssets:
         - 4.2.0
         - 4.3.0
         - 4.3.1
+        - 4.3.2
         - 4.6.0-preview
         - 4.7.0-preview
         compatible:
@@ -3122,9 +3197,10 @@ m_PackageAssets:
         - 4.2.0
         - 4.3.0
         - 4.3.1
+        - 4.3.2
         - 4.6.0-preview
         - 4.7.0-preview
-        verified: 4.3.1
+        verified: 4.3.2
       dependencies: []
       resolvedDependencies: []
       keywords:

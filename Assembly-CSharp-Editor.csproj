@@ -288,6 +288,36 @@
  <Reference Include="Ludiq.OdinSerializer">
  <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Assets/Ludiq/Ludiq.PeekCore/Runtime/Dependencies/OdinSerializer/EditorOnly/Ludiq.OdinSerializer.dll</HintPath>
  </Reference>
+ <Reference Include="YarnSpinner">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/YarnSpinner.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Buffers">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Buffers.dll</HintPath>
+ </Reference>
+ <Reference Include="Antlr4.Runtime.Standard">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/Antlr4.Runtime.Standard.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Numerics.Vectors">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Numerics.Vectors.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Runtime.CompilerServices.Unsafe">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+ </Reference>
+ <Reference Include="YarnSpinner.Compiler">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/YarnSpinner.Compiler.dll</HintPath>
+ </Reference>
+ <Reference Include="Google.Protobuf">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/Google.Protobuf.dll</HintPath>
+ </Reference>
+ <Reference Include="CsvHelper">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/CsvHelper.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Reflection.TypeExtensions">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Reflection.TypeExtensions.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Memory">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Memory.dll</HintPath>
+ </Reference>
  <Reference Include="nunit.framework">
  <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
@@ -704,6 +734,12 @@
  </Reference>
  <Reference Include="Unity.Mathematics">
  <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ </Reference>
+ <Reference Include="YarnSpinner.Unity">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/ScriptAssemblies/YarnSpinner.Unity.dll</HintPath>
+ </Reference>
+ <Reference Include="YarnSpinner.Unity.Editor">
+ <HintPath>C:/Users/Eloy/Desktop/Work/Projects/Games/Unity/Unity-Projects/Trash-Island/Library/ScriptAssemblies/YarnSpinner.Unity.Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

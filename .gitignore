@@ -3,6 +3,8 @@
 *.png*
 *.shader*
 *.tga*
+*.db*
+*.bmp*
 Temp/*
 UserSettings/*
 ProjectSettings/*

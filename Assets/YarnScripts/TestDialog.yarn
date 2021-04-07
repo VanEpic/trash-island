@@ -1,0 +1,22 @@
+title: BlueGuy
+tags: 
+colorID: 1
+position: 544,187
+---
+<<if visited('BlueGuy') is false>>
+BlueGuy: Hello stranger.
+Player: Hello me, but in blue.
+<<else>>
+BlueGuy: Hello me.
+Player: Same.
+<<endif>>
+
+[[See you later.|BlueGuy.Exit]]
+===
+title: BlueGuy.Exit
+tags: 
+colorID: 1
+position: 309,478
+---
+BlueGuy: Bye me.
+===
