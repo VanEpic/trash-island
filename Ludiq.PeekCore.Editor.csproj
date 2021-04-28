@@ -124,8 +124,8 @@
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Plugin\Changelogs\Changelog_1_0_0.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\CodeDom\FileCodeWriterSystem.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\CodeDom\Nodes\Members\PropertyAccessors\CodeDefaultedPropertyAccessor.cs" />
-     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Interface\Fuzzy\FuzzyFuncOption.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Inspection\Unity\Vector2Inspector.cs" />
+     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Interface\Fuzzy\FuzzyFuncOption.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Plugins\PluginContainer.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Interface\Fonts\FontCollection.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\CodeDom\Nodes\Expressions\CodeObjectInitializerExpression.cs" />
@@ -207,8 +207,8 @@
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Inspection\IndividualPropertyDrawer.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Inspection\Primitives\DiscreteNumberInspector.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\CodeDom\SyntaxHighlightingResult.cs" />
-     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\CodeDom\Nodes\Members\CodeEnumMember.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Plugin\NamingSchemePage.cs" />
+     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\CodeDom\Nodes\Members\CodeEnumMember.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Platforms\AotStubWriterProvider.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Plugin\Changelogs\Changelog_1_3_0.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\CodeDom\Nodes\Members\CompositeTypeMembers\CodeConstructorMember.cs" />
@@ -423,8 +423,8 @@
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\CodeDom\Nodes\Members\CompositeTypeMembers\TypeDeclarations\CodeDelegateMember.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Plugins\PluginChangelog.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Dependencies\ReorderableList\Internal\ReorderableListResources.cs" />
-     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Plugin\Migrations\Migration_1_4_0_f5_to_1_4_0_f6.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Plugins\PluginPaths.cs" />
+     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Plugin\Migrations\Migration_1_4_0_f5_to_1_4_0_f6.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Descriptors\DescriptorProvider.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Windows\AboutWindow\AboutPage.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Assignment\IAssigner.cs" />
@@ -552,8 +552,8 @@
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Inspection\Root\LudiqRootObjectEditor.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Windows\Page.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\CodeDom\Nodes\Expressions\CodeArrayCreateExpression.cs" />
-     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Inspection\Primitives\IntInspector.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Interface\Icons\Icons.cs" />
+     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Inspection\Primitives\IntInspector.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Dependencies\ReorderableList\Internal\SerializedPropertyUtility.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Tips.cs" />
      <None Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Interface\ColoredTexture.shader" />

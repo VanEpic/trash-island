@@ -7,8 +7,8 @@ using UnityEngine.UI;
 
 public class ShowEquippedItem : MonoBehaviour
 {
-    [SerializeField] private List<Collectible> collectibles;
-    [SerializeField] private List<Texture> item_textures;
+    public List<Collectible> collectibles;
+    public List<Texture> item_textures;
 
     private void Start()
     {

@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public int move_speed = 5;
-
-    private GameObject Camera;
-
     // get movement input support
-    private float hIn;
-    private float vIn;
-    private float xMove;
-    private float zMove;
+    public float speed = 5;
+    public float rotationSpeed = 360;
+    
+    // move relative to cam yaw support
+    public Camera playerCam;
+    private float camYaw;
     
     // animation stuff
     private Animator Animator;
@@ -21,32 +19,31 @@ public class Player : MonoBehaviour
     void Start()
     {
         Animator = GetComponent<Animator>();
-        
-        Camera = GameObject.FindWithTag("PlayerCamera");
     }
 
     // Update is called once per frame
     void Update()
     {
-        hIn = Input.GetAxis("Horizontal");
-        vIn = Input.GetAxis("Vertical");
-
-        // control for camera-to-player yaw
-        xMove = hIn * Time.deltaTime;
-        zMove = vIn * Time.deltaTime;
-        // TODO switch movement direction to be relative to camera rotation
-        float cam_rotY_rads = Camera.transform.rotation.eulerAngles.y / 180 * Mathf.PI;
-        Vector3 new_pos = transform.position;
-        new_pos.x += xMove * move_speed * Mathf.Sin(cam_rotY_rads) + zMove * move_speed * Mathf.Sin(cam_rotY_rads);
-        new_pos.z += zMove * move_speed * Mathf.Cos(cam_rotY_rads) + xMove * move_speed * Mathf.Cos(cam_rotY_rads);
-        transform.Translate(xMove * move_speed, 0, zMove * move_speed);
-        //transform.position = new_pos;
+        camYaw = playerCam.transform.rotation.eulerAngles.y;
+        float camYawRad = camYaw / 180 * Mathf.PI;
         
-        // switch player rotation to match movement direction
-        transform.Rotate(0, Mathf.Lerp(0, 360*xMove, 0.3f), 0);
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
+        
+        Vector3 movementDirection = new Vector3(horizontalInput * Mathf.Cos(camYawRad) + verticalInput * Mathf.Sin(camYawRad),
+            0, verticalInput * Mathf.Cos(camYawRad) - horizontalInput * Mathf.Sin(camYawRad));
+        movementDirection.Normalize();
+
+        transform.Translate(movementDirection * speed * Time.deltaTime, Space.World);
+        
+        if (movementDirection != Vector3.zero)
+        {
+            Quaternion toRotation = Quaternion.LookRotation(movementDirection, Vector3.up);
+            transform.rotation = Quaternion.RotateTowards(transform.rotation, toRotation, rotationSpeed * Time.deltaTime);            
+        }
 
 
-        if (hIn != 0 || vIn != 0)
+        if (horizontalInput != 0 || verticalInput != 0)
         {
             Animator.Play("Player-Run");
         }

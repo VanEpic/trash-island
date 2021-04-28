@@ -109,8 +109,8 @@
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Cloning\Cloners\EnumerableCloner.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Dependencies\FullSerializer\Internal\fsTypeExtensions.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Reflection\Optimization\InstanceActionInvoker_0.cs" />
-     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Math\Axis2.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Dependencies\FullSerializer\fsConfig.cs" />
+     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Math\Axis2.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Reflection\MemberData.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Dependencies\FullSerializer\Converters\Unity\Keyframe_DirectConverter.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Reflection\NamespaceFormatter.cs" />
@@ -211,8 +211,8 @@
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Dependencies\FullSerializer\Converters\fsEnumConverter.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\EditorBinding\EditorBindingUtility.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Dependencies\FullSerializer\fsResult.cs" />
-     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Reflection\Optimization\StaticFunctionInvoker_0.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\EditorBinding\Inspector\InspectorActionDirectionAttribute.cs" />
+     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Reflection\Optimization\StaticFunctionInvoker_0.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Dependencies\FullSerializer\Converters\fsTypeConverter.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Dependencies\FullSerializer\Reflection\fsMetaProperty.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Utilities\StringUtility.cs" />
@@ -360,8 +360,8 @@
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Collections\Obsolete\AotListFormatter.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Dependencies\FullSerializer\Converters\Unity\UnityEvent_Converter.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Reflection\Operators\BinaryOperator.cs" />
-     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Pooling\ArrayPool.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Reflection\Optimization\StaticInvokerBase.cs" />
+     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Pooling\ArrayPool.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Reflection\MemberFilter.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Serialization\Converters\Ray2DConverter.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Runtime\Pooling\IPoolable.cs" />

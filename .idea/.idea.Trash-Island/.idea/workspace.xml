@@ -20,720 +20,217 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8c1ab9e-bf19-41f1-98ae-49efbb3026b1" name="デフォルト変更リスト" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trash-Island/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/player_anim_control.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/player_anim_control.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bitgem/StylisedWater/URP/Materials/example-water-02.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bitgem/StylisedWater/URP/Materials/example-water-02.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tri_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tri_Material.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleSceneLightingSettings.lighting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleSceneLightingSettings.lighting.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene0.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene0/Global Volume Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene0/Global Volume Profile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/HUD/ShowEquippedItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HUD/ShowEquippedItem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerControls.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain/New Terrain.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain/New Terrain.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Colors/26 RED-DARK.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Colors/26 RED-DARK.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Colors/35 GREEN-MEDIUM.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Colors/35 GREEN-MEDIUM.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Ultimate Pack/- Materials/LOW-POLY-COLORS.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Ultimate Pack/- Materials/LOW-POLY-COLORS.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/CameraControls.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/CameraControls.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/MouseLook.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/MouseLook.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/YarnScripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/YarnScripts/TestDialog.yarn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/YarnScripts/TestDialog.yarn.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/APIUpdater/project-dependencies.graph" beforeDir="false" afterPath="$PROJECT_DIR$/Library/APIUpdater/project-dependencies.graph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/01/011ed8dc20938d184468c25d45af8e00" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/01/01d6334fdc946280be0ec96a8659b226" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/06/062779c5044bbda302a5e67b7ffdb0e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/06/06426e9df0d0aaac369d3cdf6ff4cfdc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/07/070644d86f752e05b6afde20d3c7d24b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0a/0a302288cc5abb7ee83f5da9daafb463" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0c/0c2e3c38a0c7aef023fba559dffcf66d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/13/1384471e9cc161b751a5d0ecfbc23b40" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/14/149ba78f109b78d6b80a2fd4043743c6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/16/16176fac04817aef04de79d2146655a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/16/1655151a5122819a5b8f261fad375957" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/16/166aed2723db0abc47c20e481ebf2a8c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/19/196aeec44504e3be58f509cfcd2fe9fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1b/1b7bddef2ba863f4647032ce73027cbd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1e/1e1f45c629a2266deb0c13251528ae0e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/21/210d4a6ad28773861801254d994304a7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/21/217a49c9fb108d34b3d58c6e77ceb22a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/24/24acd2b63a61e1f2b71f6a15c172f75b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/24/24b6445fa30670f76bf586ec20c101ea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/25/258812a00efb34631720ea72015cceb5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/27/27c83aed3703961996e1249ca26af673" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/30/3066c9606a2ddc2c3cef77ecd73a29eb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/37/373c45b4c248b24fcca51b0ebbebfaf9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3c/3c805a56be5cfa6579a76147e76c2fcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/46/467ee695d805ffa714f80ca74f8c61e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4b/4ba033f8a753055918f8daba628adc3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4d/4d1004c15aa5d7a25ef95e6013b30b12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4e/4e4cfe9d8f844c7a9eace913631d4bc8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4f/4f177d02f74f04ddbe8a85823d8a6e60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/51/5113baa6a0a0f4b1cf8bf53cf51176c3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/51/51b997a9d9de6c03b502da06477057bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/52/521f5e73d561e4bfa721968f8cdfea44" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/55/5514279c98193c71d1880caa6c85890e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5c/5c4901917942328fa0a967150ba8e6a9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/68/68abbda8c90e7a4adb56b618a6b5c5ba" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6d/6defcbb43d3bc177c303a59fda7bca05" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6f/6f7e0950e97ae76a3b7435c3ebab23ac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/70/70182ed22611eeab174bf25686fe3198" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/71/71d8d72bf6dc1cba47e29b86b14c4b23" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/72/7246a018a75c4a62a191fd6d4b881804" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/72/72b625b79b29e1b07b0a0862b9938a0e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/74/74aa53c299cedce1b0363d528a5d8410" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/76/76d8924b3651fb7e2ac1f6b6aa14c093" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/79/7916e3e8db15b13e9f3069c1f51a95cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7a/7adbbda7f0f90cc6f6b2aaf8a2e9d40a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7d/7dcc07673770503f45352c18d0d09ad4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/86/8659972b3b4106b3692475b6d21df7ca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/88/88825c4737d1a62c773242ec77fc717a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8f/8f9499e1f2dd388da8010b3e400f5824" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/93/931af2f2c5f67c20d82d3c40b86aee4a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/94/94e4e478570efac4dd54d4bb641a359c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/98/9825bda7919ad014cdd25d38149c4b43" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a7/a7b19ccf29287f9a5e6941f187cfebdc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ad/adfbf285ea60f6c7117efb1f8539e643" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b1/b1936547493285874e7c75cc885a7809" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b6/b6d32cfa78df5bb216eb81c364e9b5cf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b7/b7a4d2a62dd7b812263a99f92311ee41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c0/c069da1f70b6f51e65ee10fef0e04916" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c1/c1169cd9602e6fabd3bee5fad98a463c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c3/c3084d37a231f145844eb1be9f5e0d85" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cf/cf7f709fdcb9cae034f7a410bccd80f9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d3/d30e9976a04a9092cf94498067eb427b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d3/d360406ba71c3a856af1e308b88f8a9d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e7/e77a83ffce8ce0889b7f0726981363eb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e8/e897ab8d89a2672619580a8f1ad971e3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f7/f798a8fbcd98b43c5d5c9135cae87bfe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f9/f9826dfbb3fccc2eb216f4a0c2adcfa3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fa/fa57bf792eb1c78b48e73bf08d7dd31b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fb/fbbc61ce81e0c39b92e3f206bfb99744" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/01/01909c5a672e9da7242ad0c677f3f567" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/05/05563c6b5732555bf200defe19537917" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0a/0aa9f25f4229fd5017f743993a06b86d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/16/166691451328288482efb5715e006587" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1e/1ee503ac0dab5ef99adb2dcf99a7bf60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/23/235e3318092410f24e8d0f8b3c1be81b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/25/25c577708212a1448494b558bfafa37a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/26/26af98ec2d28a329f065cb27d34b1cc5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2b/2bbb4dd83c9c61055d50a79bfddc7f81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/38/381bea863ac093bedb9048bc04a57af5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/56/5602df3636bad34237617714b13ea0b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/67/67867a8bc39919f1e545123a8841a461" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6a/6a395717d392db39b1c89747d42e9980" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6b/6bfe5d10c285835ce75f45196a407f24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/70/70692f44db356512083433f5cac57dda" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7a/7a911fcdc501f0f0027675abad87754d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7a/7aaac600e8523e108ca8d8a4dd6f0b8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/80/808c4d7b963d082b73c13b32d6b388de" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/81/8184e05cd3503e20551310eaffcccce8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/89/8989f9b236afce13f2e3f8a19e7ac496" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8d/8d283f15fd1db149fe407ccf551daba4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/95/95ee06f8371e00db7064998fdaeda328" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9a/9a50415f5158fb22bf0e42af62467b65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9c/9c10c339877ee2b605acbc5b183a5f05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9d/9dc098d0faceef26ed89540248ab12d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9e/9ef9519717d4efedc9f898207c7907c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a5/a5a95e6fcd279199dd877e037d56e01d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a6/a6c12a4bc6a03008848b4d12ca25ad36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/aa/aa527724951b6f86dab232379816c8c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b3/b345aa13a5a035c1fc29bf67057d5e25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b9/b99456299e82119db95d62cd03837995" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/bf/bfdefb1305db8bf006f40cc12414fabd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c4/c4b731429e316ae5ccbc95858e421293" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cc/cc29d05ef5d4733e7ae823b19cffd0d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d6/d6932fbdce887716b8fb1c0668a7ef11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d8/d8a29e6cadec4e6472d2eaa248600bc7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/df/dfdb4ea35654c3b1297ec392281f7fea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e5/e5f326f4702b13daeb30126396fd9553" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/eb/eb36358872531271e0dc3ba1780b7fa8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ee/ee750f63a2a495a2b8821ff7f2b2fa14" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ef/efbc5db6c6a9977e893badac1669f143" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f4/f4604767e5ef7779c862c2f164f1f3ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f7/f70ddf78b1e32c1c23064c18194a4071" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fb/fb606f655c5176f086ea92c356e71ecc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fb/fbba834c03cdb7222d5d0f6bc2a14294" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fc/fc644e5269db48c74c9324d5ec85d977" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fd/fd9246fd416f551a07d3c740aac1643a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/CHANGELOG.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/CONTRIBUTING.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/LICENSE.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/CallbacksDelegator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/CallbacksDelegator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/CallbacksDelegatorListener.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/CallbacksDelegatorListener.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/CallbacksHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/CallbacksHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ExecutionSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ExecutionSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/Filter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/Filter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ICallbacks.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ICallbacks.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ICallbacksDelegator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ICallbacksDelegator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ICallbacksHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ICallbacksHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/IErrorCallbacks.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/IErrorCallbacks.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestAdaptor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestAdaptor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestAdaptorFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestAdaptorFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestResultAdaptor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestResultAdaptor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestRunSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestRunSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestRunnerApi.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestRunnerApi.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestTreeRebuildCallbacks.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/ITestTreeRebuildCallbacks.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/RunState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/RunState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestAdaptor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestAdaptor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestAdaptorFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestAdaptorFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestMode.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestMode.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestResultAdaptor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestResultAdaptor.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestRunnerApi.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestRunnerApi.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestStatus.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/Api/TestStatus.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/AssemblyInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineParser.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineParser/CommandLineOption.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineParser/CommandLineOption.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineParser/CommandLineOptionSet.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineParser/CommandLineOptionSet.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineParser/ICommandLineOption.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineParser/ICommandLineOption.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/Executer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/Executer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ExecutionSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ExecutionSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ExitCallbacks.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ExitCallbacks.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ExitCallbacksDataHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ExitCallbacksDataHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ISettingsBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ISettingsBuilder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/LogSavingCallbacks.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/LogSavingCallbacks.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/LogWriter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/LogWriter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ResultsSavingCallbacks.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ResultsSavingCallbacks.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ResultsWriter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/ResultsWriter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/RunData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/RunData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/RunSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/RunSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/SettingsBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/SettingsBuilder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/SetupException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/SetupException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/TestStarter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/CommandLineTest/TestStarter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/AssetsDatabaseHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/AssetsDatabaseHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/GuiHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/GuiHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/IAssetsDatabaseHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/IAssetsDatabaseHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/IGuiHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/IGuiHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListBuilder.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListBuilder/RenderingOptions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListBuilder/RenderingOptions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListBuilder/ResultSummarizer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListBuilder/ResultSummarizer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListBuilder/TestFilterSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListBuilder/TestFilterSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListBuilder/TestTreeViewBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListBuilder/TestTreeViewBuilder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListGuiHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListGuiHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListTreeView.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListTreeView/Icons.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListTreeView/Icons.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListTreeView/TestListTreeViewDataSource.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListTreeView/TestListTreeViewDataSource.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListTreeView/TestListTreeViewGUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListTreeView/TestListTreeViewGUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListTreeView/TestTreeViewItem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestListTreeView/TestTreeViewItem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestRunnerResult.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestRunnerResult.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestRunnerUIFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/TestRunnerUIFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/UITestRunnerFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/UITestRunnerFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/Views.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/Views/EditModeTestListGUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/Views/EditModeTestListGUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/Views/PlayModeTestListGUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/Views/PlayModeTestListGUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/Views/TestListGUIBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/GUI/Views/TestListGUIBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/NUnitExtension.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/NUnitExtension/Attributes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/NUnitExtension/Attributes/AssetPipelineIgnore.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/NUnitExtension/Attributes/AssetPipelineIgnore.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/NUnitExtension/Attributes/ITestPlayerBuildModifier.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/NUnitExtension/Attributes/ITestPlayerBuildModifier.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/NUnitExtension/Attributes/TestPlayerBuildModifierAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/NUnitExtension/Attributes/TestPlayerBuildModifierAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/NUnitExtension/TestRunnerStateSerializer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/NUnitExtension/TestRunnerStateSerializer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/RequireApiProfileAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/RequireApiProfileAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/RequirePlatformSupportAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/RequirePlatformSupportAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestBuildAssemblyFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/AttributeFinderBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/AttributeFinderBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/DelayedCallback.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/DelayedCallback.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/EditModeLauncher.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/EditModeLauncher.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/EditModeLauncherContextSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/EditModeLauncherContextSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/AndroidPlatformSetup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/AndroidPlatformSetup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/ApplePlatformSetup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/ApplePlatformSetup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/IPlatformSetup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/IPlatformSetup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/LuminPlatformSetup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/LuminPlatformSetup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/PlatformSpecificSetup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/PlatformSpecificSetup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/StadiaPlatformSetup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/StadiaPlatformSetup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/SwitchPlatformSetup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/SwitchPlatformSetup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/UwpPlatformSetup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/UwpPlatformSetup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/XboxOnePlatformSetup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlatformSetup/XboxOnePlatformSetup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlayerLauncher.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlayerLauncher.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlayerLauncherBuildOptions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlayerLauncherBuildOptions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlayerLauncherContextSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlayerLauncherContextSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlayerLauncherTestRunSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlayerLauncherTestRunSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlaymodeLauncher.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PlaymodeLauncher.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PostbuildCleanupAttributeFinder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PostbuildCleanupAttributeFinder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PrebuildSetupAttributeFinder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/PrebuildSetupAttributeFinder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/RemotePlayerLogController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/RemotePlayerLogController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/RemotePlayerTestController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/RemotePlayerTestController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/RemoteTestResultReciever.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/RemoteTestResultReciever.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/RuntimeTestLauncherBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/RuntimeTestLauncherBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/TestLauncherBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestLaunchers/TestLauncherBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestResultSerializer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestResultSerializer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/BuildActionTaskBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/BuildActionTaskBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/BuildTestTreeTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/BuildTestTreeTask.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/CleanupVerificationTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/CleanupVerificationTask.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/FileCleanupVerifierTaskBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/FileCleanupVerifierTaskBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/LegacyEditModeRunTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/LegacyEditModeRunTask.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/LegacyPlayModeRunTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/LegacyPlayModeRunTask.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/LegacyPlayerRunTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/LegacyPlayerRunTask.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/PerformUndoTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/PerformUndoTask.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/PrebuildSetupTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/PrebuildSetupTask.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/RegisterFilesForCleanupVerificationTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/RegisterFilesForCleanupVerificationTask.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/SaveModiedSceneTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/SaveModiedSceneTask.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/SaveUndoIndexTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/SaveUndoIndexTask.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/TestTaskBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/Tasks/TestTaskBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/TestJobData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/TestJobData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/TestJobDataHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/TestJobDataHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/TestJobRunner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/TestJobRunner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/TestRunCanceledException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRun/TestRunCanceledException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/EditModeRunnerCallback.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/EditModeRunnerCallback.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallback.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallback.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallbackData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallbackData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallbackInitializer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/RerunCallbackInitializer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/TestRunnerCallback.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/TestRunnerCallback.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/WindowResultUpdater.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/WindowResultUpdater.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/WindowResultUpdaterDataHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Callbacks/WindowResultUpdaterDataHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/EditModePCHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/EditModePCHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/EditModeRunner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/EditModeRunner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/EditmodeWorkItemFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/EditmodeWorkItemFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/EditorEnumeratorTestWorkItem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/EditorEnumeratorTestWorkItem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/EnumeratorStepHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/EnumeratorStepHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Messages.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Messages/EnterPlayMode.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Messages/EnterPlayMode.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Messages/ExitPlayMode.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Messages/ExitPlayMode.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Messages/RecompileScripts.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Messages/RecompileScripts.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Messages/WaitForDomainReload.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Messages/WaitForDomainReload.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/CachingTestListProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/CachingTestListProvider.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/EditorAssembliesProxy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/EditorAssembliesProxy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/EditorAssemblyWrapper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/EditorAssemblyWrapper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/EditorCompilationInterfaceProxy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/EditorCompilationInterfaceProxy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/EditorLoadedTestAssemblyProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/EditorLoadedTestAssemblyProvider.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/IEditorAssembliesProxy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/IEditorAssembliesProxy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/IEditorCompilationInterfaceProxy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/IEditorCompilationInterfaceProxy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/IEditorLoadedTestAssemblyProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/IEditorLoadedTestAssemblyProvider.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/ITestListCache.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/ITestListCache.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/ITestListCacheData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/ITestListCacheData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/ITestListProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/ITestListProvider.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/TestListCache.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/TestListCache.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/TestListCacheData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/TestListCacheData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/TestListJob.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/TestListJob.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/TestListProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunner/Utils/TestListProvider.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunnerWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunnerWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunnerWindowSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestRunnerWindowSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestSettings.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestSettings/ITestSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestSettings/ITestSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestSettings/ITestSettingsDeserializer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestSettings/ITestSettingsDeserializer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestSettings/TestSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestSettings/TestSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestSettings/TestSettingsDeserializer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/TestSettings/TestSettingsDeserializer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityEditor.TestRunner.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityEditor.TestRunner.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/ITestRunnerApiMapper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/ITestRunnerApiMapper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/IUtpLogger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/IUtpLogger.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/IUtpMessageReporter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/IUtpMessageReporter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/Message.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/Message.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/TestFinishedMessage.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/TestFinishedMessage.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/TestPlanMessage.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/TestPlanMessage.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/TestRunnerApiMapper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/TestRunnerApiMapper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/TestStartedMessage.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/TestStartedMessage.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/TestState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/TestState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/UnityTestProtocolListener.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/UnityTestProtocolListener.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/UnityTestProtocolStarter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/UnityTestProtocolStarter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/UtpDebuglogger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/UtpDebuglogger.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/UtpMessageReporter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner/UnityTestProtocol/UtpMessageReporter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/AssemblyInfo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/AllocatingGCMemoryConstraint.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/AllocatingGCMemoryConstraint.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/ConstraintsExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/ConstraintsExtensions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/InvalidSignatureException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/InvalidSignatureException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/Is.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/Is.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogAssert.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogAssert.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogScope.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogScope/ILogScope.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogScope/ILogScope.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogScope/LogEvent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogScope/LogEvent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogScope/LogMatch.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogScope/LogMatch.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogScope/LogScope.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/LogScope/LogScope.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/UnexpectedLogMessageException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/UnexpectedLogMessageException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/UnhandledLogMessageException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/UnhandledLogMessageException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/UnityTestTimeoutException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/UnityTestTimeoutException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/ActionDelegator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/ActionDelegator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/ConditionalIgnoreAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/ConditionalIgnoreAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/TestEnumerator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/TestEnumerator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/TestMustExpectAllLogsAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/TestMustExpectAllLogsAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityCombinatorialStrategy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityCombinatorialStrategy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityPlatformAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityPlatformAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnitySetUpAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnitySetUpAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityTearDownAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityTearDownAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityTestAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Attributes/UnityTestAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/BaseDelegator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/BaseDelegator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/BeforeAfterTestCommandBase.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/BeforeAfterTestCommandBase.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/BeforeAfterTestCommandState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/BeforeAfterTestCommandState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableApplyChangesToContextCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableApplyChangesToContextCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableRepeatedTestCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableRepeatedTestCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableRetryTestCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableRetryTestCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableSetUpTearDownCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableSetUpTearDownCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableTestMethodCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableTestMethodCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableTestState.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/EnumerableTestState.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/ImmediateEnumerableCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/ImmediateEnumerableCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/OuterUnityTestActionCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/OuterUnityTestActionCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/SetUpTearDownCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/SetUpTearDownCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/TestActionCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/TestActionCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/TestCommandPcHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Commands/TestCommandPcHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/ConstructDelegator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/ConstructDelegator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Filters.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Filters/AssemblyNameFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Filters/AssemblyNameFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Filters/CategoryFilterExtended.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Filters/CategoryFilterExtended.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/IAsyncTestAssemblyBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/IAsyncTestAssemblyBuilder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/IStateSerializer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/IStateSerializer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/CompositeWorkItem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/CompositeWorkItem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/CoroutineTestWorkItem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/CoroutineTestWorkItem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/DefaultTestWorkItem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/DefaultTestWorkItem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/FailCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/FailCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/IEnumerableTestMethodCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/IEnumerableTestMethodCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/PlaymodeWorkItemFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/PlaymodeWorkItemFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/RestoreTestContextAfterDomainReload.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/RestoreTestContextAfterDomainReload.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/TestCommandBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/TestCommandBuilder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityLogCheckDelegatingCommand.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityLogCheckDelegatingCommand.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityTestAssemblyRunner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityTestAssemblyRunner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityTestExecutionContext.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityTestExecutionContext.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityWorkItem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityWorkItem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityWorkItemDataHolder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/UnityWorkItemDataHolder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/WorkItemFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/Runner/WorkItemFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/TestExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/TestExtensions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/TestResultExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/TestResultExtensions.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/UnityTestAssemblyBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/NUnitExtensions/UnityTestAssemblyBuilder.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks/PlayModeRunnerCallback.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks/PlayModeRunnerCallback.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks/PlayerQuitHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks/PlayerQuitHandler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks/RemoteTestResultSender.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks/RemoteTestResultSender.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRenderer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRenderer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRendererCallback.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRendererCallback.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/ITestRunnerListener.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/ITestRunnerListener.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Messages.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Messages/IEditModeTestYieldInstruction.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/Messages/IEditModeTestYieldInstruction.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/PlaymodeTestsController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/PlaymodeTestsController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/PlaymodeTestsControllerSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/PlaymodeTestsControllerSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/IRemoteTestResultDataFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/IRemoteTestResultDataFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/PlayerConnectionMessageIds.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/PlayerConnectionMessageIds.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultDataFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultDataFactory.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultDataWithTestData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RemoteHelpers/RemoteTestResultDataWithTestData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RuntimeTestRunnerFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/RuntimeTestRunnerFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/SynchronousFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/SynchronousFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/TestEnumeratorWrapper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/TestEnumeratorWrapper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/TestListenerWrapper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/TestPlatform.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/TestRunner/TestPlatform.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/UnityEngine.TestRunner.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/UnityEngine.TestRunner.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/AssemblyLoadProxy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/AssemblyLoadProxy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/AssemblyWrapper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/AssemblyWrapper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/IAssemblyLoadProxy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/IAssemblyLoadProxy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/IAssemblyWrapper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/IAssemblyWrapper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/IScriptingRuntimeProxy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/IScriptingRuntimeProxy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/ITestAssemblyProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/ITestAssemblyProvider.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/PlayerTestAssemblyProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/PlayerTestAssemblyProvider.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/ScriptingRuntimeProxy.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AssemblyProvider/ScriptingRuntimeProxy.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AttributeHelper.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/AttributeHelper.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/ColorEqualityComparer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/ColorEqualityComparer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/CoroutineRunner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/CoroutineRunner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/FloatEqualityComparer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/FloatEqualityComparer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/IOuterUnityTestAction.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/IOuterUnityTestAction.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/IPostBuildCleanup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/IPostBuildCleanup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/IPrebuildSceneSetup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/IPrebuildSceneSetup.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/ITestRunCallback.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/ITestRunCallback.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/MonoBehaviourTest.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/MonoBehaviourTest/IMonoBehaviourTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/MonoBehaviourTest/IMonoBehaviourTest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/MonoBehaviourTest/MonoBehaviourTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/MonoBehaviourTest/MonoBehaviourTest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/PostBuildCleanupAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/PostBuildCleanupAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/PrebuildSceneSetupAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/PrebuildSceneSetupAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/QuaternionEqualityComparer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/QuaternionEqualityComparer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/StacktraceFilter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/StacktraceFilter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/TestRunCallbackAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/TestRunCallbackAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/TestRunCallbackListener.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/TestRunCallbackListener.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Utils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Utils.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector2ComparerWithEqualsOperator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector2ComparerWithEqualsOperator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector2EqualityComparer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector2EqualityComparer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector3ComparerWithEqualsOperator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector3ComparerWithEqualsOperator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector3EqualityComparer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector3EqualityComparer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector4ComparerWithEqualsOperator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector4ComparerWithEqualsOperator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector4EqualityComparer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Utils/Vector4EqualityComparer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.22/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/.github/ISSUE_TEMPLATE/bug_report_beta.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/CODE_OF_CONDUCT.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/CONTRIBUTING.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/CONTRIBUTORS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/CONTRIBUTORS.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/Icons/YarnSpinnerEditorWindow.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/Icons/YarnSpinnerEditorWindow.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnEditorUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnEditorUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnImporter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnImporter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnImporterEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnImporterEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnProgramEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnProgramEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnScriptTemplate.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnScriptTemplate.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnSpinner.Unity.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnSpinner.Unity.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnSpinnerEditorWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnSpinnerEditorWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnSpinnerTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnSpinnerTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnTranslationDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Editor/YarnTranslationDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/LICENSE.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/README.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/Culture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/Culture.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/Antlr4.Runtime.Standard.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/Antlr4.Runtime.Standard.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/CsvHelper.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/CsvHelper.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/Google.Protobuf.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/Google.Protobuf.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Buffers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Buffers.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Memory.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Numerics.Vectors.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Reflection.TypeExtensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Reflection.TypeExtensions.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/System.Runtime.CompilerServices.Unsafe.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/YarnSpinner.Compiler.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/YarnSpinner.Compiler.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/YarnSpinner.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DLLs/YarnSpinner.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DialogueRunner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DialogueRunner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DialogueUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/DialogueUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/InMemoryVariableStorage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/InMemoryVariableStorage.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/YarnProgram.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/YarnProgram.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/YarnSpinner.Unity.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/YarnSpinner.Unity.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/YarnTranslation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Runtime/YarnTranslation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Editor/YarnImporterTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Editor/YarnImporterTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Editor/YarnSpinnerEditorTests.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Editor/YarnSpinnerEditorTests.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueRunnerMockUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueRunnerMockUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueRunnerTest.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueRunnerTest.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueRunnerTest.yarn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueRunnerTest.yarn.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueRunnerTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueRunnerTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueUITests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueUITests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueUITests.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/DialogueUITests.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/YarnSpinnerTests.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/Tests/Runtime/YarnSpinnerTests.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@e050b45804/package.json.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/YarnSpinner.Unity.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/YarnSpinner.Unity.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/YarnSpinner.Unity.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/YarnSpinner.Unity.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/YarnSpinner.Unity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/YarnSpinner.Unity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/YarnSpinner.Unity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/YarnSpinner.Unity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ShaderCache.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/e0/e070be96248cf5405918e84ba69eae88.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/e0/e070be96248cf5405918e84ba69eae88.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/f8/f815fc3fdba775d26b59c4a583cb4640.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/f8/f815fc3fdba775d26b59c4a583cb4640.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/82/82ff0415273a735c6724f6f1a826efc9.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/82/82ff0415273a735c6724f6f1a826efc9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/TerrainTools/PaintTexture" beforeDir="false" afterPath="$PROJECT_DIR$/Library/TerrainTools/PaintTexture" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref" beforeDir="false" afterPath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref" beforeDir="false" afterPath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/ApiUpdaterCheck.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/ApiUpdaterCheck.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe8.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe9.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ludiq.Peek.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Ludiq.Peek.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ludiq.PeekCore.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Ludiq.PeekCore.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ludiq.PeekCore.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Ludiq.PeekCore.Runtime.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Ludiq.PeekCore.Runtime.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Ludiq.PeekCore.Runtime.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -751,18 +248,25 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EAE584CE-26BC-4022-9C1B-1AA476BFA589/69/f8136297/NullReferenceException.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@2.0.7/Rider/Editor/RiderScriptEditor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventSystem/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@1.2.7/Editor/YarnImporterEditor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../../../../../Program Files/Unity/Hub/Editor/2020.2.6f1/Unity/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/31D5D65B-32EC-4832-92E1-3E8AE4100B93/99/05fd690a/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts/Player/CameraControls.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ChangeScene.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/PauseMenu.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenuOptions.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/dev.yarnspinner.unity@1.2.7/Editor/YarnImporterEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerDialogueCommands.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/CameraControls.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/HUD/ShowEquippedItem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ScreenInitializer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CameraControls.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CursorControls.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DialogUIScript.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pIjC3LiyputGnaXlCjUckORQ0s" />
@@ -785,7 +289,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -851,6 +355,11 @@
       <workItem from="1617263704211" duration="98000" />
       <workItem from="1617777735954" duration="1063000" />
       <workItem from="1617819181666" duration="1305000" />
+      <workItem from="1619178712415" duration="2080000" />
+      <workItem from="1619434593978" duration="17000" />
+      <workItem from="1619443461465" duration="3265000" />
+      <workItem from="1619508267015" duration="4924000" />
+      <workItem from="1619609602517" duration="767000" />
     </task>
     <servers />
   </component>
