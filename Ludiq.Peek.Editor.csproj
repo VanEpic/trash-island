@@ -153,9 +153,9 @@
      <Compile Include="Assets\Ludiq\Ludiq.Peek\Editor\Tools\Editor\RegisterEditorToolAttribute.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.Peek\Editor\Tabs\TabModeTool.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.Peek\Editor\Utility\PopupWatcher.cs" />
+     <Compile Include="Assets\Ludiq\Ludiq.Peek\Editor\Toolbars\Objects\Builtin\GameObjectToolbar.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.Peek\Editor\Tools\Editor\EditorToolProvider.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.Peek\Editor\Plugin\Changelogs\Changelog_1_3_0.cs" />
-     <Compile Include="Assets\Ludiq\Ludiq.Peek\Editor\Toolbars\Objects\Builtin\GameObjectToolbar.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.Peek\Editor\Utility\ComponentUtility.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.Peek\Editor\Context\GameObjectContextMenu.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.Peek\Editor\Plugin\PeekProduct.cs" />
