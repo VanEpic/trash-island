@@ -1,9 +1,9 @@
 # trash-island
 
-Previous version, when we could still spacewalk.
+Previous version, with new UI, no more space walking, and more trash to pick up.
 
-![Gif trees](./GIFs/trash2.gif)
+![Gif trees](./GIFs/trash3.gif)
 
-Currently - New UI, no more space walking, and more trash to pick up.
+Currently - Improved water shader, scaled such that tides are apparent.
 
-![Gif UIs](./GIFs/trash3.gif)
+![Gif UIs](./GIFs/trash4.gif)
