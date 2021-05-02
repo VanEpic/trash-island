@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -7,6 +8,8 @@ public class Player : MonoBehaviour
     // get movement input support
     public float speed = 5;
     public float rotationSpeed = 360;
+    public float jmpSpd = 2.0f;
+    private Rigidbody rgbd;
     
     // move relative to cam yaw support
     public Camera playerCam;
@@ -18,6 +21,8 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        rgbd = GetComponent<Rigidbody>();
+        
         Animator = GetComponent<Animator>();
     }
 
@@ -43,7 +48,16 @@ public class Player : MonoBehaviour
             Quaternion toRotation = Quaternion.LookRotation(movementDirection, Vector3.up);
             transform.rotation = Quaternion.RotateTowards(transform.rotation, toRotation, rotationSpeed * Time.deltaTime);            
         }
-
+        
+        // ground checked jump
+        float jumpInput = Input.GetAxis("Jump");
+        bool onGround = Physics.Raycast(transform.position, Vector3.down, 0.5f);
+        if (jumpInput != 0 && onGround)
+        {
+            rgbd.AddForce(
+                new Vector3(0, jumpInput * jmpSpd,
+                    0), ForceMode.Impulse);
+        }
 
         if (horizontalInput != 0 || verticalInput != 0)
         {

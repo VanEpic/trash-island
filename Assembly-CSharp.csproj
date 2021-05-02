@@ -108,6 +108,10 @@
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\ChangeScene.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+     <Compile Include="Assets\Scene_Game\Scripts\RuntimeSets\RuntimeSet.cs" />
+     <Compile Include="Assets\Scene_Game\Scripts\Dialog\NPC.cs" />
+     <Compile Include="Assets\Scene_Game\Scripts\EventSystem\Events\OnNPCStart.cs" />
+     <Compile Include="Assets\Scene_Game\Scripts\EventSystem\YarnProgramVar.cs" />
      <None Include="Assets\Ludiq\Ludiq.PeekCore\DotNetDocumentation\System.xml" />
      <None Include="Assets\Ludiq\Ludiq.PeekCore\DotNetDocumentation\System.DirectoryServices.xml" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

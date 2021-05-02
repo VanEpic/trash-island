@@ -1314,18 +1314,24 @@
             <e p="Dialog" t="Include">
               <e p="ContinueButton.cs" t="Include" />
               <e p="DialogUIScript.cs" t="Include" />
+              <e p="NPC.cs" t="Include" />
             </e>
             <e p="EventSystem" t="Include">
               <e p="EventManager.cs" t="Include" />
               <e p="Events" t="Include">
+                <e p="OnNPCStart.cs" t="Include" />
                 <e p="OnPickupEvent.cs" t="Include" />
               </e>
               <e p="GameEvent.cs" t="Include" />
               <e p="GameEventListener.cs" t="Include" />
+              <e p="YarnProgramVar.cs" t="Include" />
             </e>
             <e p="Player" t="Include">
               <e p="PauseMenu.cs" t="Include" />
               <e p="Player.cs" t="Include" />
+            </e>
+            <e p="RuntimeSets" t="Include">
+              <e p="RuntimeSet.cs" t="Include" />
             </e>
             <e p="ScreenInitializer.cs" t="Include" />
             <e p="UI" t="Include">
