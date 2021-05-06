@@ -13,7 +13,7 @@ public class ShowEquippedItem : MonoBehaviour
     private void Start()
     {
         EventManager.AddOnPickupEventListener(DisplayHUD);
-        gameObject.SetActive(false);
+        // gameObject.SetActive(false);
         
         // a potentially useless line, since player will never pick up same equipment twice
         //Texture texture = GetComponent<RawImage>().mainTexture;
