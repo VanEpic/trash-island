@@ -5,7 +5,7 @@ public class ChangeScene : MonoBehaviour
 {
     public void OnClickPlay()
     {
-        SceneManager.LoadScene("Scene0");
+        SceneManager.LoadScene("Game");
     }
 
     public void OnClickQuit()

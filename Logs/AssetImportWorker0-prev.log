@@ -1,0 +1,389 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'ja' Physical Memory: 16234 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Eloy/Desktop/Block 4/Trash-Island
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+5852
+Successfully changed project path to: C:/Users/Eloy/Desktop/Block 4/Trash-Island
+C:/Users/Eloy/Desktop/Block 4/Trash-Island
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 83.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Eloy/Desktop/Block 4/Trash-Island/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.6172
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001620 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 91.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.169 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006571 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 102.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.818 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.7 MB.
+System memory in use after: 188.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 4218.
+Total: 11.702700 ms (FindLiveObjects: 0.401600 ms CreateObjectMapping: 0.243400 ms MarkObjects: 10.866800 ms  DeleteObjects: 0.189300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot.yarn
+  artifactKey: Guid(3dd1efe775961464f99d89ce91b4877a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot.yarn using Guid(3dd1efe775961464f99d89ce91b4877a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c3be9caa4718cad2ea64d0b0d9ac42') in 0.031145 seconds
+  Import took 0.037093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.889573 seconds.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot.yarn
+  artifactKey: Guid(3dd1efe775961464f99d89ce91b4877a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot.yarn using Guid(3dd1efe775961464f99d89ce91b4877a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c3be9caa4718cad2ea64d0b0d9ac42') in 0.002762 seconds
+  Import took 0.008947 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.742 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3608 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.6 MB.
+System memory in use after: 183.8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4220.
+Total: 15.600300 ms (FindLiveObjects: 0.602200 ms CreateObjectMapping: 0.299300 ms MarkObjects: 14.551400 ms  DeleteObjects: 0.145600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006145 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.642 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3608 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.7 MB.
+System memory in use after: 183.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4222.
+Total: 12.643900 ms (FindLiveObjects: 0.554900 ms CreateObjectMapping: 0.358300 ms MarkObjects: 11.573100 ms  DeleteObjects: 0.155700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.724143 seconds.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot.yarn
+  artifactKey: Guid(3dd1efe775961464f99d89ce91b4877a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot.yarn using Guid(3dd1efe775961464f99d89ce91b4877a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35721d6f86daf2ae42c2fbb6c09486c4') in 0.013594 seconds
+  Import took 0.020184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 293.846908 seconds.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot 1.yarn
+  artifactKey: Guid(bc6f760c8179a774d900f4202540cb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot 1.yarn using Guid(bc6f760c8179a774d900f4202540cb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb7e0619b89f6344dc10d43f3a96fe9a') in 0.008544 seconds
+  Import took 0.014904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038170 seconds.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot 1.yarn
+  artifactKey: Guid(bc6f760c8179a774d900f4202540cb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot 1.yarn using Guid(bc6f760c8179a774d900f4202540cb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb7e0619b89f6344dc10d43f3a96fe9a') in 0.002844 seconds
+  Import took 0.008714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.907999 seconds.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot 1.yarn
+  artifactKey: Guid(bc6f760c8179a774d900f4202540cb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot 1.yarn using Guid(bc6f760c8179a774d900f4202540cb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '415dcfb8cbc23fea0ae76209fc4e9310') in 0.008071 seconds
+  Import took 0.020618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.540354 seconds.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot.yarn
+  artifactKey: Guid(bc6f760c8179a774d900f4202540cb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot.yarn using Guid(bc6f760c8179a774d900f4202540cb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44920f4142ff62a803db0280a8e45a96') in 0.003307 seconds
+  Import took 0.009304 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006385 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.654 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3608 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 186.3 MB.
+System memory in use after: 186.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4224.
+Total: 10.841100 ms (FindLiveObjects: 0.312900 ms CreateObjectMapping: 0.152300 ms MarkObjects: 10.216900 ms  DeleteObjects: 0.156700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.698266 seconds.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot(1).yarn
+  artifactKey: Guid(c9c6689b34cceac4a9353de2048fa28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot(1).yarn using Guid(c9c6689b34cceac4a9353de2048fa28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ac6c70d5e885988ba4b907a5c77c03b') in 0.036293 seconds
+  Import took 0.043126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.178763 seconds.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot.yarn
+  artifactKey: Guid(c9c6689b34cceac4a9353de2048fa28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot.yarn using Guid(c9c6689b34cceac4a9353de2048fa28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb25bf170ad1bd60b62230b37833de7b') in 0.004285 seconds
+  Import took 0.011709 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009458 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.690 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3608 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.3 MB.
+System memory in use after: 185.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4226.
+Total: 11.689700 ms (FindLiveObjects: 0.477400 ms CreateObjectMapping: 0.200400 ms MarkObjects: 10.860100 ms  DeleteObjects: 0.150300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 538.783332 seconds.
+  path: Assets/Scene_Game/Prefabs/trash-mandicoot Variant.prefab
+  artifactKey: Guid(139481914a1ac014cba83e5d50d398c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/Prefabs/trash-mandicoot Variant.prefab using Guid(139481914a1ac014cba83e5d50d398c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e41bf05200ac6cab1faa46a7e13fea0e') in 0.218772 seconds
+  Import took 0.227914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.783459 seconds.
+  path: Assets/Scene_Game/Prefabs/trash-mandicoot Variant.prefab
+  artifactKey: Guid(139481914a1ac014cba83e5d50d398c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/Prefabs/trash-mandicoot Variant.prefab using Guid(139481914a1ac014cba83e5d50d398c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11979448b3be9e9cea83491d893bc80') in 0.021310 seconds
+  Import took 0.030344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.584933 seconds.
+  path: Assets/Scene_Game/Prefabs/Candy Variant.prefab
+  artifactKey: Guid(172d9a843c6d8c644afdd2e88e680299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/Prefabs/Candy Variant.prefab using Guid(172d9a843c6d8c644afdd2e88e680299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bf2b857e1db6a1e49ae3a9d70804249') in 0.033418 seconds
+  Import took 0.042358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009084 seconds.
+  path: Assets/Scene_Game/Prefabs/Candy Variant.prefab
+  artifactKey: Guid(172d9a843c6d8c644afdd2e88e680299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/Prefabs/Candy Variant.prefab using Guid(172d9a843c6d8c644afdd2e88e680299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bf2b857e1db6a1e49ae3a9d70804249') in 0.018949 seconds
+  Import took 0.025843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.831796 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Colors/43 BLUE-MEDIUM.mat
+  artifactKey: Guid(4ea8e2de4ac6b564c98a36f67a2ad64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Colors/43 BLUE-MEDIUM.mat using Guid(4ea8e2de4ac6b564c98a36f67a2ad64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b808d179f38ed69babccf747f904fc37') in 0.039184 seconds
+  Import took 0.045464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.525919 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Colors/43 BLUE-MEDIUM.mat
+  artifactKey: Guid(4ea8e2de4ac6b564c98a36f67a2ad64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/- Materials/Colors/43 BLUE-MEDIUM.mat using Guid(4ea8e2de4ac6b564c98a36f67a2ad64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '914fa6578bb1418b56ec7dc16919da8f') in 0.013829 seconds
+  Import took 0.020058 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.672 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3608 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.8 MB.
+System memory in use after: 205.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4307.
+Total: 11.819600 ms (FindLiveObjects: 0.419800 ms CreateObjectMapping: 0.226800 ms MarkObjects: 11.001400 ms  DeleteObjects: 0.169900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006150 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.683 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3608 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.8 MB.
+System memory in use after: 206.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4309.
+Total: 18.639600 ms (FindLiveObjects: 1.113400 ms CreateObjectMapping: 0.421100 ms MarkObjects: 16.864100 ms  DeleteObjects: 0.237500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 758.253545 seconds.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot(2).yarn
+  artifactKey: Guid(c2fdf43973bd2004490f388e4a1528b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot(2).yarn using Guid(c2fdf43973bd2004490f388e4a1528b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2e17036d30f28fd49274bf266cf5126') in 0.019053 seconds
+  Import took 0.025901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.065727 seconds.
+  path: Assets/Scene_Game/YarnDialog/Mandicoot.yarn
+  artifactKey: Guid(c2fdf43973bd2004490f388e4a1528b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/YarnDialog/Mandicoot.yarn using Guid(c2fdf43973bd2004490f388e4a1528b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048eb0a8ae852e68e661f39f9d588308') in 0.003092 seconds
+  Import took 0.009021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 173.930856 seconds.
+  path: Assets/Scene_Game/Scripts/DialogScripts
+  artifactKey: Guid(f4b360d5a6ad2bf4da6d2a0ca9d2625f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene_Game/Scripts/DialogScripts using Guid(f4b360d5a6ad2bf4da6d2a0ca9d2625f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5cd4f98ed302eee72c907363fe825c') in 0.006322 seconds
+  Import took 0.012174 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006531 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.876 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3608 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.8 MB.
+System memory in use after: 206.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 4311.
+Total: 11.952800 ms (FindLiveObjects: 0.429900 ms CreateObjectMapping: 0.255000 ms MarkObjects: 11.108200 ms  DeleteObjects: 0.157700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

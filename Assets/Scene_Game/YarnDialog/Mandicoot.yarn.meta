@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c2fdf43973bd2004490f388e4a1528b4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: ja-JP
+  stringIDs:
+  - Mandicoot(2)-Mandicoot.Start-0
+  - Mandicoot(2)-Mandicoot.Start-1
+  - Mandicoot(2)-Mandicoot.Start-2
+  - Mandicoot(2)-Mandicoot.NotAlright-3
+  - Mandicoot(2)-Mandicoot.NotAlright-4
+  - Mandicoot(2)-Mandicoot.Alright-5
+  - Mandicoot(2)-Mandicoot.Alright-6
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: c2fdf43973bd2004490f388e4a1528b4, type: 3}
+  localizations: []

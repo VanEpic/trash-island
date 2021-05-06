@@ -521,8 +521,8 @@
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Inspection\AccessorListAdaptor.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Dependencies\ReorderableList\Element Adder Menu\GenericElementAdderMenu.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Interface\Icons\LanguageIconsSkin.cs" />
-     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Windows\SetupWizard\SetupCompletePage.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Plugins\PluginMigration.cs" />
+     <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Windows\SetupWizard\SetupCompletePage.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Threading\ThreadableAssetWrapper.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Tasks\Runners\ForegroundTaskRunner.cs" />
      <Compile Include="Assets\Ludiq\Ludiq.PeekCore\Editor\Plugin\Changelogs\Changelog_1_3_1.cs" />

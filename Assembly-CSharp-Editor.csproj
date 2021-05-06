@@ -696,6 +696,9 @@
  <Reference Include="Unity.Searcher.Editor">
  <HintPath>C:/Users/Eloy/Desktop/Block 4/Trash-Island/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.2D.Sprite.Editor">
+ <HintPath>C:/Users/Eloy/Desktop/Block 4/Trash-Island/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Runtime">
  <HintPath>C:/Users/Eloy/Desktop/Block 4/Trash-Island/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
  </Reference>

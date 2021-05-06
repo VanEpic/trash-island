@@ -1,0 +1,31 @@
+title: Candy.Start
+tags: 
+colorID: 0
+position: 117,-549
+---
+Candy: Wow! This world is amaziiiiing!!!
+[[ And here comes the noisy |Candy.Noisy]]
+[[ You're an imbecile |Candy.Imbecile]]
+[[ Oh, hi Candy! |Candy.Hi]]
+===
+title: Candy.Noisy
+tags: 
+colorID: 0
+position: 237,-769
+---
+Candy: I see you didn't change at all...
+===
+title: Candy.Imbecile
+tags: 
+colorID: 0
+position: 457,-769
+---
+Candy: Rude!
+===
+title: Candy.Hi
+tags: 
+colorID: 0
+position: 677,-769
+---
+Candy: Hi!
+===
