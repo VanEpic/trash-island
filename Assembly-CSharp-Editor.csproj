@@ -774,6 +774,10 @@
       <Project>{bbb9fdab-572c-8e71-110b-e448ce47ca6b}</Project>
       <Name>Ludiq.PeekCore.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="ScriptsAssembly.csproj">
+      <Project>{dac8330b-12cf-714e-99a9-b92b97fb6a18}</Project>
+      <Name>ScriptsAssembly</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

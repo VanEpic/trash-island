@@ -8,17 +8,17 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
-  baseLanguageID: ja-JP
+  baseLanguageID: 
   stringIDs:
-  - Mandicoot(2)-Mandicoot.Start-0
-  - Mandicoot(2)-Mandicoot.Start-1
-  - Mandicoot(2)-Mandicoot.Start-2
-  - Mandicoot(2)-Mandicoot.NotAlright-3
-  - Mandicoot(2)-Mandicoot.NotAlright-4
-  - Mandicoot(2)-Mandicoot.Alright-5
-  - Mandicoot(2)-Mandicoot.Alright-6
+  - Mandicoot-Mandicoot.Start-0
+  - Mandicoot-Mandicoot.Start-1
+  - Mandicoot-Mandicoot.Start-2
+  - Mandicoot-Mandicoot.NotAlright-3
+  - Mandicoot-Mandicoot.NotAlright-4
+  - Mandicoot-Mandicoot.Alright-5
+  - Mandicoot-Mandicoot.Alright-6
   compilationStatus: 1
   isSuccesfullyCompiled: 1
   compilationErrorMessage: 
-  baseLanguage: {fileID: 7128917941130120860, guid: c2fdf43973bd2004490f388e4a1528b4, type: 3}
+  baseLanguage: {instanceID: 0}
   localizations: []
