@@ -860,6 +860,10 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="ScriptsAssembly.csproj">
+      <Project>{dac8330b-12cf-714e-99a9-b92b97fb6a18}</Project>
+      <Name>ScriptsAssembly</Name>
+    </ProjectReference>
     <ProjectReference Include="Ludiq.PeekCore.Runtime.csproj">
       <Project>{209f5c18-3d99-4b31-ad03-a39e1db87d28}</Project>
       <Name>Ludiq.PeekCore.Runtime</Name>
@@ -871,10 +875,6 @@
     <ProjectReference Include="Ludiq.PeekCore.Editor.csproj">
       <Project>{bbb9fdab-572c-8e71-110b-e448ce47ca6b}</Project>
       <Name>Ludiq.PeekCore.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="ScriptsAssembly.csproj">
-      <Project>{dac8330b-12cf-714e-99a9-b92b97fb6a18}</Project>
-      <Name>ScriptsAssembly</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Scene_Game.Scripts.DialogScripts;
 using UnityEngine;
 using UnityEngine.Serialization;
 
@@ -14,7 +15,7 @@ namespace Scene_Game.Scripts.Player
         [SerializeField] private GameEvent dialogEvent;
 #pragma warning restore 0649
     
-        public float dialogDist = 3;
+        public float dialogDist = 2;
         private bool _inDialog;
         public bool InDialog => _inDialog;
         // private List<GameObject> _npcs;
@@ -103,12 +104,13 @@ namespace Scene_Game.Scripts.Player
         /// </summary>
         void Interact()
         {
-            GameObject closestNpc = GetClosestNpc();
+            GameObject closestNpcObj = GetClosestNpc();
+            NPC closestNpc = closestNpcObj.GetComponent<NPC>();
             if (_inDialog)
             {
-                closestNpc.GetComponent<NPC>().ActivateNpcDialogue();
-                dialogEvent.Raise();
-                closestNpc.GetComponent<NPC>().DeactivateNpcDialogue();
+                closestNpc.ActivateNpcDialogue();
+                // dialogEvent.Raise();
+                // closestNpc.DeactivateNpcDialogue();
             }
         }
 

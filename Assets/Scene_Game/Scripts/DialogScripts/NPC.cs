@@ -1,37 +1,47 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+using UnityEngine.Events;
 
-public class NPC : GameEventListener
+namespace Scene_Game.Scripts.DialogScripts
 {
-    // public static NPC ActiveNPC { get; private set;  }
+    public class NPC : GameEventListener
+    {
+        public UnityEvent GameStartEvent;
+        public UnityEvent DialogEvent;
+        
+        // public static NPC ActiveNPC { get; private set;  }
 
 #pragma warning disable 0649
-     // [SerializeField] private GameObject chatBubble;
-     // [SerializeField] private string yarnStartNode;
+        // [SerializeField] private GameObject chatBubble;
+        // [SerializeField] private string yarnStartNode;
 #pragma warning restore 0649
-    // public string YarnStartNode => yarnStartNode;
-    // Start is called before the first frame update
-    void Start()
-    {
-        // chatBubble.SetActive(false);
-        // Event.RegisterListener(this);
-    }
+        // public string YarnStartNode => yarnStartNode;
+        // Start is called before the first frame update
+        void Start()
+        {
+            // chatBubble.SetActive(false);
+            // Event.UnregisterListener(this);
+            GameStartEvent.Invoke();
+        }
 
-    public void ActivateNpcDialogue()
-    {
-        // ActiveNPC = this;
-        Event.RegisterListener(this);
-    }
+        public void ActivateNpcDialogue()
+        {
+            // ActiveNPC = this;
+            Event.RegisterListener(this);
+            DialogEvent.Invoke();
+        }
 
-    public void DeactivateNpcDialogue()
-    {
-        Event.UnregisterListener(this);
-    }
+        public void DeactivateNpcDialogue()
+        {
+            // Event.UnregisterListener(this);
+        }
 
-    private void OnDisable()
-    {
-        Event.UnregisterListener(this);
+        public void OnDialogueEnd()
+        {
+            // Event.UnregisterListener(this);
+        }
+
+        private void OnDisable()
+        {
+            // Event.UnregisterListener(this);
+        }
     }
 }
