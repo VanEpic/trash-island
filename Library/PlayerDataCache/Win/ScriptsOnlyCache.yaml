@@ -3,16 +3,6 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - Bitgem.VFX.StylisedWater.WaterVolumeHelper
     - Bitgem.VFX.StylisedWater.WaterVolumeTransforms
-    - ChangeScene
-    - Collectible
-    - GameEvent
-    - NPC
-    - PauseMenu
-    - PauseMenuOptions
-    - Scene_Game.Scripts.Player.CursorControls
-    - Scene_Game.Scripts.Player.Player
-    - ScreenInitializer
-    - ShowEquippedItem
     Cinemachine.dll:
     - Cinemachine.CinemachineBrain
     - Cinemachine.CinemachineComposer
@@ -22,6 +12,16 @@ ScriptsOnlyBuild:
     - Cinemachine.CinemachineVirtualCamera
     Ludiq.PeekCore.Runtime.dll:
     - Ludiq.PeekCore.DictionaryAsset
+    ScriptsAssembly.dll:
+    - ChangeScene
+    - Collectible
+    - PauseMenu
+    - PauseMenuOptions
+    - Scene_Game.Scripts.DialogScripts.NPC
+    - Scene_Game.Scripts.Player.CursorControls
+    - Scene_Game.Scripts.Player.Player
+    - ScreenInitializer
+    - ShowEquippedItem
     Unity.RenderPipelines.Core.Runtime.dll:
     - UnityEngine.Rendering.UI.DebugUIHandlerBitField
     - UnityEngine.Rendering.UI.DebugUIHandlerButton
@@ -75,9 +75,12 @@ ScriptsOnlyBuild:
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
     UnityEditor.TestRunner.dll:
+    - TestRunner.Callbacks.WindowResultUpdaterDataHolder
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.CommandLineTest.RunData
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    - UnityEditor.TestTools.TestRunner.TestRunnerWindow
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -155,43 +158,43 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1998}
     - Class: 114
-      Script: {instanceID: 2420}
+      Script: {instanceID: 2418}
     - Class: 114
-      Script: {instanceID: 2554}
+      Script: {instanceID: 2552}
     - Class: 114
-      Script: {instanceID: 2848}
+      Script: {instanceID: 2846}
     - Class: 114
-      Script: {instanceID: 2880}
+      Script: {instanceID: 2878}
     - Class: 114
-      Script: {instanceID: 2942}
+      Script: {instanceID: 2940}
     - Class: 114
-      Script: {instanceID: 3032}
+      Script: {instanceID: 3030}
     - Class: 114
-      Script: {instanceID: 3508}
+      Script: {instanceID: 3506}
     - Class: 114
-      Script: {instanceID: 3608}
+      Script: {instanceID: 3606}
     - Class: 114
-      Script: {instanceID: 3818}
+      Script: {instanceID: 3816}
     - Class: 114
-      Script: {instanceID: 4144}
+      Script: {instanceID: 4142}
     - Class: 114
-      Script: {instanceID: 4384}
+      Script: {instanceID: 4382}
     - Class: 114
-      Script: {instanceID: 4656}
+      Script: {instanceID: 4654}
     - Class: 114
-      Script: {instanceID: 4798}
+      Script: {instanceID: 4796}
     - Class: 114
-      Script: {instanceID: 5330}
+      Script: {instanceID: 5328}
     - Class: 114
-      Script: {instanceID: 5488}
+      Script: {instanceID: 5486}
     - Class: 114
-      Script: {instanceID: 5508}
+      Script: {instanceID: 5506}
     - Class: 114
-      Script: {instanceID: 5638}
+      Script: {instanceID: 5636}
     - Class: 114
-      Script: {instanceID: 5794}
+      Script: {instanceID: 5792}
     - Class: 114
-      Script: {instanceID: 5974}
+      Script: {instanceID: 5972}
     - Class: 114
       Script: {instanceID: 6306}
     - Class: 114
@@ -212,8 +215,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 7848}
     - Class: 114
       Script: {instanceID: 7874}
-    - Class: 114
-      Script: {instanceID: 7972}
     - Class: 114
       Script: {instanceID: 8040}
     - Class: 114
@@ -286,53 +287,53 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1940}
     - Class: 114
-      Script: {instanceID: 2406}
+      Script: {instanceID: 2404}
     - Class: 114
-      Script: {instanceID: 2590}
+      Script: {instanceID: 2588}
     - Class: 114
-      Script: {instanceID: 2690}
+      Script: {instanceID: 2688}
     - Class: 114
-      Script: {instanceID: 2942}
+      Script: {instanceID: 2940}
     - Class: 114
-      Script: {instanceID: 3508}
+      Script: {instanceID: 3506}
     - Class: 114
-      Script: {instanceID: 3608}
+      Script: {instanceID: 3606}
     - Class: 114
-      Script: {instanceID: 3674}
+      Script: {instanceID: 3672}
     - Class: 114
-      Script: {instanceID: 3700}
+      Script: {instanceID: 3698}
     - Class: 114
-      Script: {instanceID: 3758}
+      Script: {instanceID: 3756}
     - Class: 114
-      Script: {instanceID: 3906}
+      Script: {instanceID: 3904}
     - Class: 114
-      Script: {instanceID: 4030}
+      Script: {instanceID: 4028}
     - Class: 114
-      Script: {instanceID: 4358}
+      Script: {instanceID: 4356}
     - Class: 114
-      Script: {instanceID: 4480}
+      Script: {instanceID: 4478}
     - Class: 114
-      Script: {instanceID: 4510}
+      Script: {instanceID: 4508}
     - Class: 114
-      Script: {instanceID: 4622}
+      Script: {instanceID: 4620}
     - Class: 114
-      Script: {instanceID: 4822}
+      Script: {instanceID: 4820}
     - Class: 114
-      Script: {instanceID: 4920}
+      Script: {instanceID: 4918}
     - Class: 114
-      Script: {instanceID: 5714}
+      Script: {instanceID: 5712}
     - Class: 114
-      Script: {instanceID: 5734}
+      Script: {instanceID: 5732}
     - Class: 114
-      Script: {instanceID: 5794}
+      Script: {instanceID: 5792}
     - Class: 114
-      Script: {instanceID: 5802}
+      Script: {instanceID: 5800}
+    - Class: 114
+      Script: {instanceID: 6026}
     - Class: 114
       Script: {instanceID: 6028}
     - Class: 114
-      Script: {instanceID: 6030}
-    - Class: 114
-      Script: {instanceID: 6056}
+      Script: {instanceID: 6054}
     - Class: 114
       Script: {instanceID: 6350}
     - Class: 114
@@ -437,7 +438,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 5957d4698defa89670f402bd3e8da7a8
-    assemblyName: Assembly-CSharp.dll
+    assemblyName: ScriptsAssembly.dll
     namespaceName: 
     className: ShowEquippedItem
   - hash:
@@ -500,12 +501,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Shadow
-  - hash:
-      serializedVersion: 2
-      Hash: 883c859a97544d2a88760d2e52541b3a
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: DialogUIScript
   - hash:
       serializedVersion: 2
       Hash: c5bfd0f6f4664318b8b9f50d88408421
@@ -617,7 +612,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
+    assemblyName: ScriptsAssembly.dll
     namespaceName: Scene_Game.Scripts.Player
     className: CursorControls
   - hash:
@@ -791,7 +786,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: db120e436708444217ebba78a81288b5
-    assemblyName: Assembly-CSharp.dll
+    assemblyName: ScriptsAssembly.dll
     namespaceName: 
     className: GameEventListener
   - hash:
@@ -827,7 +822,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
+    assemblyName: ScriptsAssembly.dll
     namespaceName: 
     className: PauseMenuOptions
   - hash:
@@ -1079,7 +1074,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
+    assemblyName: ScriptsAssembly.dll
     namespaceName: 
     className: Collectible
   - hash:
@@ -1342,9 +1337,9 @@ ScriptsOnlyBuild:
     className: TMP_DigitValidator
   - hash:
       serializedVersion: 2
-      Hash: db120e436708444217ebba78a81288b5
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
+      Hash: 6a4615c6509cfa342021bd8d15ac4654
+    assemblyName: ScriptsAssembly.dll
+    namespaceName: Scene_Game.Scripts.DialogScripts
     className: NPC
   - hash:
       serializedVersion: 2
@@ -1433,7 +1428,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 75693a032401dbccde553afc926ad23b
-    assemblyName: Assembly-CSharp.dll
+    assemblyName: ScriptsAssembly.dll
     namespaceName: 
     className: ScreenInitializer
   - hash:
@@ -1462,8 +1457,8 @@ ScriptsOnlyBuild:
     className: TextMeshSpawner
   - hash:
       serializedVersion: 2
-      Hash: f3022308b905a817b4936f2907265c85
-    assemblyName: Assembly-CSharp.dll
+      Hash: 96530bf9d6d08e5a64baa3c33ede7061
+    assemblyName: ScriptsAssembly.dll
     namespaceName: Scene_Game.Scripts.Player
     className: Player
   - hash:
@@ -1751,13 +1746,13 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
+    assemblyName: ScriptsAssembly.dll
     namespaceName: 
     className: GameEvent
   - hash:
       serializedVersion: 2
       Hash: 528c5a1bb821d9d3932d1ff23275cae0
-    assemblyName: Assembly-CSharp.dll
+    assemblyName: ScriptsAssembly.dll
     namespaceName: 
     className: PauseMenu
   - hash:
@@ -1919,7 +1914,7 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
+    assemblyName: ScriptsAssembly.dll
     namespaceName: 
     className: ChangeScene
   - hash:

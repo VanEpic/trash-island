@@ -1,8 +1,9 @@
+using UnityEngine;
 using UnityEngine.Events;
 
 namespace Scene_Game.Scripts.DialogScripts
 {
-    public class NPC : GameEventListener
+    public class NPC : MonoBehaviour
     {
         public UnityEvent GameStartEvent;
         public UnityEvent DialogEvent;
