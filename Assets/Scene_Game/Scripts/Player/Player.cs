@@ -12,14 +12,11 @@ namespace Scene_Game.Scripts.Player
 #pragma warning disable 0649
         [FormerlySerializedAs("_NPCs")] [FormerlySerializedAs("NPCs")] 
         public List<GameObject> npcs;
-        [SerializeField] private GameEvent dialogEvent;
 #pragma warning restore 0649
     
         public float dialogDist = 2;
         private bool _inDialog;
         public bool InDialog => _inDialog;
-        // private List<GameObject> _npcs;
-        // public GameObject ClosestNpc => closestNpc;
 
         // get movement input support
         public float speed = 5;
@@ -109,8 +106,6 @@ namespace Scene_Game.Scripts.Player
             if (_inDialog)
             {
                 closestNpc.ActivateNpcDialogue();
-                // dialogEvent.Raise();
-                // closestNpc.DeactivateNpcDialogue();
             }
         }
 
