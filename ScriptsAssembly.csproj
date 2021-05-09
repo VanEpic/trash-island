@@ -54,14 +54,16 @@
   <ItemGroup>
      <Compile Include="Assets\Scene_Game\Scripts\UI\ShowEquippedItem.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\Player\CursorControls.cs" />
+     <Compile Include="Assets\Scene_Game\Scripts\NPCs\NpcMovement.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\EventSystem\GameEventListener.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\UI\PauseMenuOptions.cs" />
-     <Compile Include="Assets\Scene_Game\Scripts\Collectible.cs" />
+     <Compile Include="Assets\Scene_Game\Scripts\Collectibles\CollectibleTrigger.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\EventSystem\Events\OnPickupEvent.cs" />
-     <Compile Include="Assets\Scene_Game\Scripts\DialogScripts\NPC.cs" />
+     <Compile Include="Assets\Scene_Game\Scripts\NPCs\NPC.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\ScreenInitializer.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\Player\Player.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\EventSystem\EventManager.cs" />
+     <Compile Include="Assets\Scene_Game\Scripts\UI\ShowTooltip.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\RuntimeSets\RuntimeSet.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\EventSystem\GameEvent.cs" />
      <Compile Include="Assets\Scene_Game\Scripts\UI\PauseMenu.cs" />
@@ -675,6 +677,9 @@
  </Reference>
  <Reference Include="System.Xml.XPath.XDocument">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
+ </Reference>
+ <Reference Include="YarnSpinner.Unity">
+ <HintPath>C:/Users/Eloy/Desktop/Block 4/Trash-Island/Library/ScriptAssemblies/YarnSpinner.Unity.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
  <HintPath>C:/Users/Eloy/Desktop/Block 4/Trash-Island/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
