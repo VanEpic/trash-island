@@ -1,6 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5c5a194c_002Dbd62_002D4c72_002D802a_002Dff7e36c73ccf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CameraTestsSimplePasses" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::EE1071CC-5F81-F17C-1AAF-4FF274F25774::.NETFramework,Version=v4.7.1::CameraTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C2D124FC-1C4E-DD4A-5C32-C70FF1C08E38::.NETFramework,Version=v4.7.1::GetClosestNpcTest.GetClosestNpcTestSimplePasses&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

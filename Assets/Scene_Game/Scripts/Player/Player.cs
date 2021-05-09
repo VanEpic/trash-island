@@ -1,4 +1,6 @@
+using System;
 using System.Collections.Generic;
+using Scene_Game.Scripts.DialogScripts;
 using UnityEngine;
 using UnityEngine.Serialization;
 
@@ -8,16 +10,14 @@ namespace Scene_Game.Scripts.Player
     {
         // dialogue support
 #pragma warning disable 0649
-        [FormerlySerializedAs("NPCs")] 
-        [SerializeField] private List<GameObject> _NPCs;
-        [SerializeField] private GameEvent dialogEvent;
+        [FormerlySerializedAs("_NPCs")] [FormerlySerializedAs("NPCs")] 
+        public List<GameObject> npcs;
 #pragma warning restore 0649
     
-        public float dialogDist = 3;
+        public float dialogDist = 2;
         private bool _inDialog;
         public bool InDialog => _inDialog;
-        private List<GameObject> _npcs;
-    
+
         // get movement input support
         public float speed = 5;
         public float rotationSpeed = 360;
@@ -38,7 +38,7 @@ namespace Scene_Game.Scripts.Player
         
             _animator = GetComponent<Animator>();
 
-            _npcs = new List<GameObject>(_NPCs);
+            // _npcs = new List<GameObject>(npcs);
         }
 
         // Update is called once per frame
@@ -101,12 +101,32 @@ namespace Scene_Game.Scripts.Player
         /// </summary>
         void Interact()
         {
-            // or-equal so that stays to true once condition met
-            foreach (var npc in _npcs)
+            GameObject closestNpcObj = GetClosestNpc();
+            NPC closestNpc = closestNpcObj.GetComponent<NPC>();
+            if (_inDialog)
             {
-                _inDialog |= Vector3.Distance(transform.position, npc.transform.position) < dialogDist;
+                closestNpc.ActivateNpcDialogue();
             }
-            if (_inDialog) dialogEvent.Raise();
+        }
+
+        public GameObject GetClosestNpc()
+        {
+            GameObject closestNpc = null;
+            float distanceToNpc = Single.PositiveInfinity;
+            
+            foreach (var npc in npcs)
+            {
+                if (Vector3.Distance(transform.position, npc.transform.position) < distanceToNpc)
+                {
+                    closestNpc = npc;
+                }
+                distanceToNpc = Vector3.Distance(transform.position, npc.transform.position);
+                
+                // or-equal so that stays to true once condition met
+                _inDialog |= distanceToNpc < dialogDist;
+            }
+
+            return closestNpc;
         }
     }
 }

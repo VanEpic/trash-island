@@ -1,26 +1,21 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
-public class NPC : GameEventListener
+namespace Scene_Game.Scripts.DialogScripts
 {
-    // public static NPC ActiveNPC { get; }
-
-// #pragma warning disable 0649
-     // [SerializeField] private GameObject chatBubble;
-     // [SerializeField] private string yarnStartNode;
-// #pragma warning restore 0649
-    
-    // Start is called before the first frame update
-    void Start()
+    public class NPC : MonoBehaviour
     {
-        // chatBubble.SetActive(false);
-        Event.RegisterListener(this);
-    }
+        public UnityEvent GameStartEvent;
+        public UnityEvent DialogEvent;
+        
+        void Start()
+        {
+            GameStartEvent.Invoke();
+        }
 
-    private void OnDisable()
-    {
-        Event.UnregisterListener(this);
+        public void ActivateNpcDialogue()
+        {
+            DialogEvent.Invoke();
+        }
     }
 }

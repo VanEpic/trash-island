@@ -762,6 +762,10 @@
       <Project>{ff67d160-d463-44f1-6097-2b1adffaf48e}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="ScriptsAssembly.csproj">
+      <Project>{dac8330b-12cf-714e-99a9-b92b97fb6a18}</Project>
+      <Name>ScriptsAssembly</Name>
+    </ProjectReference>
     <ProjectReference Include="Ludiq.PeekCore.Runtime.csproj">
       <Project>{209f5c18-3d99-4b31-ad03-a39e1db87d28}</Project>
       <Name>Ludiq.PeekCore.Runtime</Name>

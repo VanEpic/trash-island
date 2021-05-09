@@ -1,0 +1,25 @@
+title: Mandicoot.Start
+tags: 
+colorID: 0
+position: 133,-261
+---
+Mandicoot: The desktop Yarn editor sucks!
+[[ Absolutely does |Mandicoot.NotAlright]]
+[[ It's alright I guess |Mandicoot.Alright]]
+===
+title: Mandicoot.NotAlright
+tags: 
+colorID: 0
+position: 253,-480
+---
+Mandicoot: I see you had troubles with it as well.
+-> Lost all me files for no reason. Twice.
+===
+title: Mandicoot.Alright
+tags: 
+colorID: 0
+position: 473,-480
+---
+Mandicoot: Guess I just got unlucky then.
+-> I get what you mean though.
+===
