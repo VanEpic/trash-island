@@ -7,19 +7,15 @@ using UnityEngine.UI;
 
 public class ShowEquippedItem : MonoBehaviour
 {
-    public List<Collectible> collectibles;
+    public List<CollectibleTrigger> collectibles;
     public List<Texture> item_textures;
 
     private void Start()
     {
         EventManager.AddOnPickupEventListener(DisplayHUD);
-        // gameObject.SetActive(false);
-        
-        // a potentially useless line, since player will never pick up same equipment twice
-        //Texture texture = GetComponent<RawImage>().mainTexture;
     } 
 
-    public void DisplayHUD(Collectible target)
+    public void DisplayHUD(CollectibleTrigger target)
     {
         gameObject.SetActive(true);
 

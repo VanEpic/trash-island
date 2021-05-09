@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2dc523ed3f4847d48b9d44116b87c524
+guid: 615a6d4f182750b4a81ecb459821dda6
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -10,15 +10,16 @@ ScriptedImporter:
   script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
   baseLanguageID: ja-JP
   stringIDs:
-  - Mandicoot 1-Mandicoot.NotAlright-0
-  - Mandicoot 1-Mandicoot.NotAlright-1
-  - Mandicoot 1-Mandicoot.NotAlright-2
-  - Mandicoot 1-Mandicoot.Alright-3
-  - Mandicoot 1-Mandicoot.Start-4
-  - Mandicoot 1-Mandicoot.Start-5
-  - Mandicoot 1-Mandicoot.Start-6
+  - Mandicoot(1)-Mandicoot.NotAlright-0
+  - Mandicoot(1)-Mandicoot.NotAlright-1
+  - Mandicoot(1)-Mandicoot.NotAlright-2
+  - Mandicoot(1)-Mandicoot.Alright-3
+  - Mandicoot(1)-Mandicoot.Alright-4
+  - Mandicoot(1)-Mandicoot.Start-5
+  - Mandicoot(1)-Mandicoot.Start-6
+  - Mandicoot(1)-Mandicoot.Start-7
   compilationStatus: 1
   isSuccesfullyCompiled: 1
   compilationErrorMessage: 
-  baseLanguage: {fileID: 7128917941130120860, guid: 2dc523ed3f4847d48b9d44116b87c524, type: 3}
+  baseLanguage: {fileID: 7128917941130120860, guid: 615a6d4f182750b4a81ecb459821dda6, type: 3}
   localizations: []

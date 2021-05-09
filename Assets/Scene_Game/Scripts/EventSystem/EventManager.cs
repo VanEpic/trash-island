@@ -8,12 +8,12 @@ public static class EventManager
 {
     #region Fields
 
-    private static List<UnityAction<Collectible>> pickupListeners = new List<UnityAction<Collectible>>();
-    private static List<Collectible> pickupInvokers = new List<Collectible>();
+    private static List<UnityAction<CollectibleTrigger>> pickupListeners = new List<UnityAction<CollectibleTrigger>>();
+    private static List<CollectibleTrigger> pickupInvokers = new List<CollectibleTrigger>();
 
     #endregion
 
-    public static void AddOnPickupEventListener(UnityAction<Collectible> listener)
+    public static void AddOnPickupEventListener(UnityAction<CollectibleTrigger> listener)
     {
         pickupListeners.Add(listener);
         foreach (var invoker in pickupInvokers)
@@ -22,7 +22,7 @@ public static class EventManager
         }
     }
 
-    public static void AddOnPickupEventInvoker(Collectible invoker)
+    public static void AddOnPickupEventInvoker(CollectibleTrigger invoker)
     {
         pickupInvokers.Add(invoker);
         foreach (var listener in pickupListeners)

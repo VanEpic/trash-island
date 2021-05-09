@@ -10,9 +10,11 @@ Mandicoot: I see you had troubles with it as well.
 title: Mandicoot.Alright
 tags: 
 colorID: 0
-position: 473,-480
+position: 473,-478
 ---
+<<jumpNPC Trash-Mandicoot >>
 Mandicoot: It just keeps swallowing my dialogue for no reason!
+-> Yeah, that sucks.
 ===
 title: Mandicoot.Start
 tags: 

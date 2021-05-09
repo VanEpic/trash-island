@@ -10,7 +10,8 @@ namespace Scene_Game.Scripts.Player
     {
         // dialogue support
 #pragma warning disable 0649
-        [FormerlySerializedAs("_NPCs")] [FormerlySerializedAs("NPCs")] 
+        [FormerlySerializedAs("_NPCs")]
+        [FormerlySerializedAs("NPCs")] 
         public List<GameObject> npcs;
 #pragma warning restore 0649
     
@@ -37,8 +38,6 @@ namespace Scene_Game.Scripts.Player
             _rgbd = GetComponent<Rigidbody>();
         
             _animator = GetComponent<Animator>();
-
-            // _npcs = new List<GameObject>(npcs);
         }
 
         // Update is called once per frame
